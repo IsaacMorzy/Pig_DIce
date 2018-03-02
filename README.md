@@ -1,3 +1,4 @@
+
 # Pig_DIce
 Dice game of two players(Practice of  constructors, prototypes, objects, properties, methods, jQuery and DOM manipulation and traversal)
 ##An exciting game of probabality
@@ -38,3 +39,7 @@ Dice game of two players(Practice of  constructors, prototypes, objects, propert
 * Ends game when player reaches 100 points
   * Example Input: Player1 total score => 100
   * Example Output: "Player one wins!"
+
+###Technologies used
+_This App uses HTML,Javascript, Jquery & Bootstrap_
+###Copyright
