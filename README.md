@@ -1,16 +1,17 @@
 
 # Pig_DIce
 Dice game of two players(Practice of  constructors, prototypes, objects, properties, methods, jQuery and DOM manipulation and traversal)
-##An exciting game of probabality
 
-##Description
+## An exciting game of probabality
+
+## Description
 * Each turn, a player repeatedly rolls a die until either a 1 is rolled or the player decides to "hold" that is end their turn:
 * If the player rolls a 1, they score nothing and it becomes the next player's turn.
 * If the player rolls any other number, it is added to their turn total and the player's turn continues.
 * If a player chooses to "hold", their turn total is added to their score, and it becomes the next player's turn.
 * The first player to score 100 or more points wins._
 
-###Specifications
+### Specifications
 
 * Assigns player names and starting score of 0 into object.
   * Example Input: Isaac
@@ -40,6 +41,7 @@ Dice game of two players(Practice of  constructors, prototypes, objects, propert
   * Example Input: Player1 total score => 100
   * Example Output: "Player one wins!"
 
-###Technologies used
+### Technologies used
 _This App uses HTML,Javascript, Jquery & Bootstrap_
-###Copyright
+
+### Copyright
