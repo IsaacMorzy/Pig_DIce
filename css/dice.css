@@ -1,0 +1,11 @@
+.jumbotron{
+  text-align: center;
+  text-decoration-color: blue;
+  background-color: black;
+  position: sticky;
+}
+.Rules{
+  margin-top: -35px;
+  background-color: grey;
+  text-align: -webkit-center;
+}
