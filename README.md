@@ -2,8 +2,6 @@
 # Pig_DIce
 Dice game of two players(Practice of  constructors, prototypes, objects, properties, methods, jQuery and DOM manipulation and traversal)
 
-## An exciting game of probabality
-
 ## Description
 * Each turn, a player repeatedly rolls a die until either a 1 is rolled or the player decides to "hold" that is end their turn:
 * If the player rolls a 1, they score nothing and it becomes the next player's turn.
